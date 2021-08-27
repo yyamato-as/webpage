@@ -107,7 +107,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   [[params.social]]
     title = "website"
     icon = "fa-link"
-    link = "https://github.com/yyamato-as"
+    link = "https://yyamato-as.github.io/website_jp"
     target = "_blank"
 
   [[params.social]]
